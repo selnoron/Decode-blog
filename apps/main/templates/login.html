@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="../static/css/login.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+	<form method="post" action="{% url 'login' %}" enctype="multipart/form-data">
+		{% csrf_token %}
+  	<div class="macbook-pro-6">
+    		<div class="macbook-pro-6-child">
+    		</div>
+    		<div class="decode-blog">Decode Blog</div>
+    		<img class="macbook-pro-6-item" alt="" src="Line 1.svg">
+
+    		<div class="rectangle-parent1">
+      			<div class="group-child1">
+      			</div>
+      			<div class="group-child2">
+      			</div>
+      			<div class="email"><input type="email" name="email" placeholder="Введите email"></div>
+      			<div class="div4"><input type="password" name="password" placeholder="Введите пароль"></div>
+    		</div>
+    		<div class="rectangle-parent3">
+      			<div class="div6"><input class="group-child4" type="submit" value="Войти"></div>
+    		</div>
+    		<div class="rectangle-parent4">
+      			<div class="group-child3">
+      			</div>
+      			<a class="div7" href="{% url 'register' %}">Регистрация</a>
+    		</div>
+		</form>
+    		<div class="div8">Вход</div>
+  	</div>
+  	
+  	
+  	
+  	
+</body>
+</html>

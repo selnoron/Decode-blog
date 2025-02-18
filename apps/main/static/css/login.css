@@ -1,0 +1,219 @@
+.macbook-pro-6-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1440px;
+    height: 130px;
+}
+.decode-blog {
+    position: absolute;
+    top: 38px;
+    left: 100px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #00a2dc;
+}
+.macbook-pro-6-item {
+    position: absolute;
+    top: 130px;
+    left: 0px;
+    width: 1440px;
+    height: 5px;
+    object-fit: contain;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 4px 4px 0px;
+    background-color: #00a2dc;
+    width: 91px;
+    height: 50px;
+}
+.div {
+    position: absolute;
+    top: 3px;
+    left: 33px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 49px;
+    height: 38px;
+}
+.icons-search {
+    position: absolute;
+    top: 16px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 40px;
+    left: 878px;
+    width: 91px;
+    height: 50px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px 0px 0px 4px;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    width: 321px;
+    height: 50px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 40px;
+    left: 557px;
+    width: 321px;
+    height: 50px;
+    color: rgba(0, 0, 0, 0.54);
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    width: 321px;
+    height: 50px;
+}
+.group-child2 {
+    position: absolute;
+    top: 68px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    width: 321px;
+    height: 50px;
+}
+.email {
+    position: absolute;
+    top: 2.67px;
+    left: 21.26px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 129.6px;
+    height: 38.3px;
+}
+.div4 {
+    position: absolute;
+    top: 68px;
+    left: 21px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 129.6px;
+    height: 38.3px;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 369px;
+    left: 547px;
+    width: 321px;
+    height: 118px;
+    color: rgba(0, 0, 0, 0.54);
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #00a2dc;
+    width: 125px;
+    height: 50px;
+}
+.div5 {
+    position: absolute;
+    top: 4.14px;
+    left: 13px;
+    line-height: 46px;
+    font-weight: 500;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 99px;
+    height: 38.3px;
+}
+.rectangle-parent2 {
+    position: absolute;
+    top: 42px;
+    left: 1227px;
+    width: 125px;
+    height: 50px;
+}
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #00a2dc;
+    width: 321px;
+    height: 50px;
+}
+.div6 {
+    position: absolute;
+    top: 4px;
+    left: 21px;
+    line-height: 46px;
+    font-weight: 500;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 254.2px;
+    height: 38.3px;
+}
+.rectangle-parent3 {
+    position: absolute;
+    top: 507px;
+    left: 547px;
+    width: 321px;
+    height: 50px;
+    text-align: center;
+}
+.div7 {
+    position: absolute;
+    top: 2.14px;
+    left: 13px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 99px;
+    height: 38.3px;
+}
+.rectangle-parent4 {
+    position: absolute;
+    top: 42px;
+    left: 1082px;
+    width: 125px;
+    height: 50px;
+}
+.div8 {
+    position: absolute;
+    top: 283px;
+    left: 667px;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 500;
+    color: #000;
+}
+.macbook-pro-6 {
+    width: 100%;
+    position: relative;
+    background-color: #f8f9fa;
+    height: 2748px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Roboto;
+}
+

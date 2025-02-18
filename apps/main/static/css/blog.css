@@ -1,0 +1,780 @@
+.macbook-pro-4-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1440px;
+    height: 130px;
+}
+.decode-blog {
+    position: absolute;
+    top: 38px;
+    left: 100px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #00a2dc;
+}
+.macbook-pro-4-item {
+    position: absolute;
+    top: 130px;
+    left: 0px;
+    width: 1440px;
+    height: 5px;
+    object-fit: contain;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 4px 4px 0px;
+    background-color: #00a2dc;
+    width: 91px;
+    height: 50px;
+}
+.div {
+    position: absolute;
+    top: 3px;
+    left: 33px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 49px;
+    height: 38px;
+}
+.icons-search {
+    position: absolute;
+    top: 16px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 40px;
+    left: 878px;
+    width: 91px;
+    height: 50px;
+    color: #fff;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px 0px 0px 4px;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    width: 321px;
+    height: 50px;
+}
+.div1 {
+    position: absolute;
+    top: 2.67px;
+    left: 21.26px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 129.6px;
+    height: 38.3px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 40px;
+    left: 557px;
+    width: 321px;
+    height: 50px;
+    color: rgba(0, 0, 0, 0.54);
+}
+.macbook-pro-4-inner {
+    position: absolute;
+    top: 348.5px;
+    left: 1056.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.rect-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 3px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div2 {
+    position: absolute;
+    top: 2.73%;
+    left: 21.86%;
+    line-height: 46px;
+    font-weight: 500;
+}
+.it- {
+    position: absolute;
+    top: 28.57%;
+    left: 13.68%;
+    font-size: 20px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.theme-card-bg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+.cards-blank {
+    position: absolute;
+    top: 175px;
+    left: 1016px;
+    width: 313px;
+    height: 605px;
+    font-size: 36px;
+    color: #000;
+}
+.div3 {
+    position: absolute;
+    top: 218px;
+    left: 1046px;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 500;
+    color: #000;
+}
+.it {
+    position: absolute;
+    top: 299px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.report-manager {
+    margin: 0;
+}
+.report-title {
+    white-space: nowrap; /* Запрещает перенос текста */
+
+}
+
+.report-manager-container {
+    display: flex;
+    position: absolute;
+    width: 53.41%;
+    top: 500.82px;
+    left: 0.39%;
+    font-size: 28px;
+    line-height: 24px;
+    text-align: center;
+    display: inline-block;
+    height: 56.4px;
+}
+.div5 {
+    position: absolute;
+    width: 53.41%;
+    top: 1170.82px;
+    left: 0.79%;
+    font-size: 24px;
+    line-height: 24px;
+    display: inline-block;
+    height: 40px;
+}
+.webix-webix-container {
+    position: absolute;
+    width: 99.61%;
+    top: 557.25px;
+    left: 0.39%;
+    line-height: 24px;
+    display: inline-block;
+    height: 253.9px;
+}
+.webix2 {
+    position: absolute;
+    width: 80.71%;
+    top: 810.82px;
+    left: 0.39%;
+    font-size: 24px;
+    line-height: 24px;
+    display: inline-block;
+    height: 56px;
+}
+.javascript-container {
+    position: absolute;
+    width: 99.61%;
+    top: 866.82px;
+    left: 0.39%;
+    line-height: 24px;
+    display: inline-block;
+    height: 279px;
+}
+.javascript-container1 {
+    position: absolute;
+    width: 99.61%;
+    top: 1339.82px;
+    left: 0%;
+    line-height: 24px;
+    display: inline-block;
+    height: 57px;
+}
+.icons-date {
+    position: absolute;
+    width: 20.51%;
+    top: 0px;
+    right: 79.49%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 28.2px;
+}
+.div6 {
+    position: absolute;
+    width: 69.23%;
+    top: 1.18px;
+    left: 30.77%;
+    line-height: 24px;
+    display: inline-block;
+    height: 28.2px;
+}
+.date {
+    position: absolute;
+    width: 15.79%;
+    top: 0px;
+    right: 84.21%;
+    left: 0%;
+    height: 29.4px;
+}
+.div7 {
+    position: absolute;
+    width: 76.77%;
+    top: 0px;
+    left: 23.23%;
+    line-height: 24px;
+    display: inline-block;
+    height: 28.2px;
+}
+.forums-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 28.2px;
+    object-fit: cover;
+}
+.category {
+    position: absolute;
+    width: 20.92%;
+    top: 1.18px;
+    right: 16.87%;
+    left: 62.21%;
+    height: 28.2px;
+}
+.div8 {
+    position: absolute;
+    width: 32.73%;
+    top: 0px;
+    left: 67.27%;
+    line-height: 24px;
+    display: inline-block;
+    height: 28.2px;
+}
+.icons-visibility {
+    position: absolute;
+    width: 43.64%;
+    top: 0px;
+    right: 56.36%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 28.2px;
+}
+.views {
+    position: absolute;
+    width: 7.42%;
+    top: 0px;
+    right: 67.34%;
+    left: 25.24%;
+    height: 28.2px;
+}
+.nast1289 {
+    position: absolute;
+    width: 65.42%;
+    top: 1.18px;
+    left: 34.58%;
+    line-height: 24px;
+    display: inline-block;
+    height: 28.2px;
+}
+.icons-person {
+    position: absolute;
+    width: 22.43%;
+    top: 0px;
+    right: 77.57%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 28.2px;
+}
+.author {
+    position: absolute;
+    width: 14.44%;
+    top: 0px;
+    right: 0%;
+    left: 85.56%;
+    height: 29.4px;
+}
+.div9 {
+    position: absolute;
+    width: 19.69%;
+    top: 0px;
+    left: 80.32%;
+    line-height: 24px;
+    display: inline-block;
+    height: 28.2px;
+}
+.message-icon {
+    position: absolute;
+    width: 52.52%;
+    top: 0px;
+    right: 47.48%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 28.2px;
+}
+.comments {
+    position: absolute;
+    width: 6.17%;
+    top: 1.18px;
+    right: 51.86%;
+    left: 41.97%;
+    height: 28.2px;
+}
+.date-parent {
+    position: absolute;
+    width: 97.24%;
+    top: 426.82px;
+    right: 2.36%;
+    left: 0.39%;
+    height: 29.4px;
+}
+.image-1-icon {
+    position: absolute;
+    width: 99.61%;
+    top: 0px;
+    right: 0%;
+    left: 0.39%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 402.1px;
+    object-fit: cover;
+}
+.article {
+    
+    position: absolute;
+    width: 85.43%;
+    top: 43px;
+    right: 7.29%;
+    left: 7.29%;
+    height: 1396.8px;
+}
+.card {
+    position: absolute;
+    height: 79.4%;
+    width: 61.94%;
+    top: 6.37%;
+    right: 31.11%;
+    bottom: 14.23%;
+    left: 6.94%;
+    color: #000;
+}
+.avatar-icon {
+    position: absolute;
+    top: calc(50% + 81px);
+    left: 165px;
+    width: 72px;
+    height: 73px;
+    object-fit: cover;
+}
+.div10 {
+    position: absolute;
+    top: 1480px;
+    left: 272px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #000;
+}
+.javascript-container2 {
+    position: absolute;
+    width: 52.71%;
+    top: 1766px;
+    left: 11.32%;
+    line-height: 24px;
+    color: #000;
+    display: inline-block;
+    height: 57px;
+}
+.avatar-icon1 {
+    position: absolute;
+    top: calc(50% + 300px);
+    left: 166px;
+    width: 72px;
+    height: 73px;
+    object-fit: cover;
+}
+.div11 {
+    position: absolute;
+    top: 1699px;
+    left: 273px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #000;
+}
+.line-div {
+    position: absolute;
+    top: 344.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div12 {
+    position: absolute;
+    top: 345px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child1 {
+    position: absolute;
+    top: 390.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div13 {
+    position: absolute;
+    top: 391px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child2 {
+    position: absolute;
+    top: 436.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div14 {
+    position: absolute;
+    top: 437px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child3 {
+    position: absolute;
+    top: 482.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div15 {
+    position: absolute;
+    top: 483px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child4 {
+    position: absolute;
+    top: 528.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.it1 {
+    position: absolute;
+    top: 529px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child5 {
+    position: absolute;
+    top: 574.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div16 {
+    position: absolute;
+    top: 575px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child6 {
+    position: absolute;
+    top: 620.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div17 {
+    position: absolute;
+    top: 621px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child7 {
+    position: absolute;
+    top: 666.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div18 {
+    position: absolute;
+    top: 667px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child8 {
+    position: absolute;
+    top: 712.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.div19 {
+    position: absolute;
+    top: 713px;
+    left: 1046px;
+    line-height: 46px;
+    font-weight: 500;
+}
+.macbook-pro-4-child9 {
+    position: absolute;
+    top: 758.5px;
+    left: 1045.5px;
+    border-top: 1px dashed #e7e7e7;
+    box-sizing: border-box;
+    width: 257px;
+    height: 1px;
+}
+.line-icon {
+    position: absolute;
+    top: 1640px;
+    left: 162px;
+    width: 762px;
+    height: 2px;
+    object-fit: contain;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    width: 125px;
+    height: 50px;
+}
+/* Общие стили для всех кнопок */
+.btn {
+    display: inline-block;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    text-align: center;
+}
+
+/* Специальные стили для кнопки "Вход" */
+.login-btn {
+    display: inline-block;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    text-align: center;
+    background-color: #007bff
+}
+
+.login-btn:hover {
+    background-color: #0056b3; /* Темно-зеленый при наведении */
+}
+
+/* Специальные стили для кнопки "Регистрация" */
+.register-btn {
+    background-color: #007bff; /* Синий цвет */
+    color: white;
+}
+
+.register-btn:hover {
+    background-color: #0056b3; /* Темно-синий при наведении */
+}
+
+
+
+.div20 {
+    position: absolute;
+    top: 4.14px;
+    left: 13px;
+    line-height: 46px;
+    font-weight: 500;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 99px;
+    height: 38.3px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 41px;
+    left: 1204px;
+    width: 125px;
+    height: 50px;
+    color: #fff;
+}
+.div21 {
+    position: absolute;
+    top: 2.14px;
+    left: 13px;
+    line-height: 46px;
+    font-weight: 500;
+    display: inline-block;
+    width: 99px;
+    height: 38.3px;
+}
+.group-div {
+    position: absolute;
+    top: 41px;
+    left: 1059px;
+    width: 125px;
+    height: 50px;
+    color: #fff;
+}
+.macbook-pro-4-child10 {
+    position: absolute;
+    top: 1841px;
+    left: 154px;
+    border-radius: 4px;
+    background-color: #fff3cd;
+    width: 764px;
+    height: 73px;
+}
+.span {
+    color: #00a2dc;
+}
+.div22 {
+    position: absolute;
+    top: 1855px;
+    left: 181px;
+    line-height: 46px;
+    font-weight: 500;
+    color: #856404;
+}
+.macbook-pro-4 {
+    width: 100%;
+    position: relative;
+    background-color: #f8f9fa;
+    height: 2748px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #007bff;
+    font-family: Roboto;
+}
+.report-manager-container {
+    display: flex; /* Размещаем элементы в одну строку */
+    align-items: center; /* Выравниваем по вертикали */
+    gap: 10px; /* Добавляем отступ между текстом и кнопкой */
+}
+/* Контейнер для кнопки и меню */
+.dropdown {
+    display: flex;
+    position: relative;
+    display: inline-block;
+}
+
+/* Кнопка с тремя точками */
+.dropdown-toggle {
+    display: flex;
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Выпадающее меню (по умолчанию скрыто) */
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    min-width: 120px;
+}
+
+/* Ссылки внутри меню */
+.dropdown-menu a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    transition: background 0.3s;
+}
+
+/* Стили для удаления */
+.dropdown-menu .delete {
+    color: red;
+    font-weight: bold;
+}
+
+/* Hover эффекты */
+.dropdown-menu a:hover {
+    background-color: #f1f1f1;
+}
+
+/* Показываем меню, когда активен класс open */
+.dropdown.open .dropdown-menu {
+    display: block;
+}
+
+.edit{
+    width: 100px !important;
+    color:#000;
+    font-size: large;
+}

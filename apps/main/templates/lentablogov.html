@@ -1,0 +1,56 @@
+<!-- {% load static %} -->
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="../static/css/lentablogov.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" /> 	
+</head>
+<body>
+	<div class="main">
+		<nav>
+			<div class="decode-blog">Decode Blog</div>
+			<div class="find">
+				<form action="{% url 'blogs' %}" method="get" class="find-form">
+					<input type="text" name="search" value="{{ search_query }}">
+					<label for="sort_by">Sort by:</label>
+					<select name="sort_by" id="sort_by">
+						<option value="">All</option>
+						<option value="life" {% if sort_by == "life" %}selected{% endif %}>Life</option>
+						<option value="game" {% if sort_by == "game" %}selected{% endif %}>Game</option>
+					</select>
+					<input type="submit" value="Найти">
+				</form>
+			</div>
+			<div class="profile">
+				<a href="{% url 'profile' %}">Profile</a>
+			</div>
+
+		</nav>
+		<br> <br>
+		<main>
+			<div class="main-invis">
+				<div class="first">
+					<span>Blogs</span>
+				</div>
+				{% for blog in blogs %}
+				<div class="blog">
+					<img src="{{ blog.file }}" alt="none">
+					<div class="title">
+						<div class="title-invis">
+							<span>{{ blog.title }}</span>
+							<a href="comments/{{blog.id}}">Коментарии</a>
+						</div>
+					</div>
+					<div class="text">{{ blog.text }}</div>
+				</div>
+				{% endfor %}
+			</div>
+		</main>
+	</div>
+
+  	
+</body>
+</html>

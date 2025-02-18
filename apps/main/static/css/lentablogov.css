@@ -1,0 +1,355 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+
+.main {
+    width: 1000px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100%;
+    height: 80px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(247, 247, 247);
+}
+
+.decode-blog {
+    top: 38px;
+    left: 100px;
+    font-size: 40px;
+    font-weight: 600;
+    color: #00a2dc;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+
+.find {
+    width: 47%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.find-form {
+    height: 100%;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+.profile {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.profile a {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: #00a2dc;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-invis {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 247, 247);
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.first {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80px;
+}
+
+.first span {
+    font-size: 30px;
+    font-weight: 600;
+    color: #00a2dc;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+
+.blog {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.blog img {
+    width: 100%;
+    height: 330px;
+    object-fit: cover;
+}
+
+.title {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title-invis {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.title-invis span {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-invis a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #00a2dc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.main-invis-prof {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 247, 247);
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    margin-left: 35px;
+}
+
+.ava {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.ava img {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.info {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.nick {
+    width: 100%;
+    height: 20%;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.desc {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.update {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.update a {
+    width: 90%;
+    height: 30px;
+    background-color: #00a2dc;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 13px;
+    
+}
+
+.update a:hover {
+    background-color: #0390c4;
+}
+
+.form {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-new {
+    width: 70%;
+    height: 40px;
+    font-size: 25px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.categ-new {
+    width: 70%;
+    height: 65px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 17px;
+}
+
+.categ-new select {
+    height: 26px;
+    font-size: 20px;
+    width: 102%;
+    display: flex;
+    flex-direction: column;
+}
+
+.file-new {
+    width: 70%;
+    height: 40px;
+    font-size: 17px;
+}
+
+.text-new {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.sub {
+    width: 20%;
+    height: 30px;
+    background-color: #00a2dc;
+    color: white;
+    text-align: center;
+    padding-top: 4px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 13px;
+    align-self: flex-end;
+}
+
+.sub:hover {
+    background-color: #0390c4;
+}
+
+.main-invis2 {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 247, 247);
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+    margin-right: 50px;
+}
+
+.comments {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 247, 247);
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.comm {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.fr-com {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+}
+
+.fr-com img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.fr-com span{
+    font-size: 23px;
+    font-weight: 600;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
